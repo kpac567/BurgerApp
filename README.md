@@ -8,10 +8,15 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 Built With
 Node - As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.
+
 mySQL - MySQL is an open source relational database management system.
+
 Handlebars - Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+
 HTML - Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+
 CSS - Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
+
 Javascript - high-level, interpreted programming language that conforms to the ECMAScript specification. It is a programming language that is characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
 
 MIT License 
