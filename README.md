@@ -6,6 +6,8 @@ This application shows a simple full stack application with a front end implemen
 
 The user may enter any burger name to add it to the menu. This also adds the new burger entry into the MySQL database. Then the burger entry is added as an available on the menu and placed on the left side of the screen. The user may then eat any burger by typing in which burger they want. That moves it into the adjacent column and updates its status accordingly in the database.
 
+![New Project (24)](https://user-images.githubusercontent.com/71659832/99723578-5da1d700-2a80-11eb-95b4-b06e2afb8d50.jpg)
+
 Built With
 Node - As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.
 
